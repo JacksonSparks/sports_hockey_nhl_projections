@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHL NGTP Data</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        /* Conditional formatting styles */
+        .conditional-format {
+            text-align: right;
+            color: #000;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<h1>NGTP Data - 10/22/2024</h1>
+<table>
+    <thead>
+    <tr>
+        <th>Away Team</th>
+        <!--<th>Away RS</th>
+        <th>Away NGTP %</th>-->
+        <th>Away NGSTP %</th>
+        <!--<th>Away Total NGTP %</th>-->
+        <th>Away Total NGSTP %</th>
+        <th>Intra NGSTP %</th>
+        <th>L10</th>
+        <th>Streak</th>
+
+
+
+        <th>Home Team</th>
+        <!--<th>Home RS</th>
+        <th>Home NGTP %</th>-->
+        <th>Home NGSTP %</th>
+        <!--<th>Home Total NGTP %</th>-->
+        <th>Home Total NGSTP %</th>
+        <th>Intra NGSTP %</th>
+        <th>L10</th>
+        <th>Streak</th>
+
+
+        <th>Away Goalie</th>
+        <!--<th>Away GAA</th>
+        <th>Away RA (Goalie)</th>-->
+        <th>Away NGTP</th>
+        <th>Away YGTP</th>
+        <th>Away NGTP %</th>
+        <th>Total NGTP</th>
+        <th>Total YGTP</th>
+        <th>Total NGTP %</th>
+        <th>L5</th>
+        <th>Streak</th>
+
+        <th>Home Goalie</th>
+        <!--<th>Home GAA</th>
+        <th>Home RA (Goalie)</th>-->
+        <th>Home NGTP</th>
+        <th>Home YGTP</th>
+        <th>Home NGTP %</th>
+        <th>Total NGTP</th>
+        <th>Total YGTP</th>
+        <th>Total NGTP %</th>
+        <th>L5</th>
+        <th>Streak</th>
+
+
+        <th>NGTP % (Goalies)</th>
+
+        <th>Away NGSTP Algo %</th>
+        <th>Home NGSTP Algo %</th>
+        <th>Algo %</th>
+
+        <!--<th>Away Total NGTP % (Goalie)</th>
+        <th>Home Total NGTP % (Goalie)</th>-->
+    </tr>
+    </thead>
+    <tbody>
+    {% for row in data %}
+    <tr>
+        <td>{{ row['Away Team'] }}</td>
+        <!--<td class="colored-cell" style="background-color: {{ row['Away RS Color'] }};">{{ row['Away RS'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Away NGTP % Color'] }};">{{ row['Away NGTP %'] }}</td>-->
+        <td class="colored-cell" style="background-color: {{ row['Away NGSTP % Color'] }};">{{ row['Away NGSTP %'] }}</td>
+        <!--<td class="colored-cell" style="background-color: {{ row['Away Total NGTP % Color'] }};">{{ row['Away Total NGTP %'] }}</td>-->
+        <td class="colored-cell" style="background-color: {{ row['Away Total NGSTP % Color'] }};">{{ row['Away Total NGSTP %'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Away Intra NGSTP % Color'] }};">{{ row['Away Intra NGSTP %'] }}</td>
+        <td>{{ row['Away L10'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Away Streak Color'] }};">{{ row['Away Streak'] }}</td>
+
+
+        <td>{{ row['Home Team'] }}</td>
+        <!--<td class="colored-cell" style="background-color: {{ row['Home RS Color'] }};">{{ row['Home RS'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Home NGTP % Color'] }};">{{ row['Home NGTP %'] }}</td>-->
+        <td class="colored-cell" style="background-color: {{ row['Home NGSTP % Color'] }};">{{ row['Home NGSTP %'] }}</td>
+        <!--<td class="colored-cell" style="background-color: {{ row['Home Total NGTP % Color'] }};">{{ row['Home Total NGTP %'] }}</td>-->
+        <td class="colored-cell" style="background-color: {{ row['Home Total NGSTP % Color'] }};">{{ row['Home Total NGSTP %'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Home Intra NGSTP % Color'] }};">{{ row['Home Intra NGSTP %'] }}</td>
+        <td>{{ row['Home L10'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Home Streak Color'] }};">{{ row['Home Streak'] }}</td>
+
+
+
+        <td>{{ row['Away Goalie'] }}</td>
+        <!--<td class="colored-cell" style="background-color: {{ row['Away GAA Color'] }};">{{ row['Away GAA'] }}</td>
+        <td>{{ row['Away RA (Goalie)'] }}</td>-->
+        <td>{{ row['Away NGTP (Goalie)'] }}</td>
+        <td>{{ row['Away YGTP (Goalie)'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Away NGTP % (Goalie) Color'] }};">{{ row['Away NGTP % (Goalie)'] }}%</td>
+        <td>{{ row['Away Total NGTP (Goalie)'] }}</td>
+        <td>{{ row['Away Total YGTP (Goalie)'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Away Total NGTP % (Goalie) Color'] }};">{{ row['Away Total NGTP % (Goalie)'] }}%</td>
+        <td>{{ row['Away L5 (Goalie)'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Away Streak (Goalie) Color'] }};">{{ row['Away Streak (Goalie)'] }}</td>
+
+
+
+        <td>{{ row['Home Goalie'] }}</td>
+        <!--<td class="colored-cell" style="background-color: {{ row['Home GAA Color'] }};">{{ row['Home GAA'] }}</td>
+        <td>{{ row['Home RA (Goalie)'] }}</td>-->
+        <td>{{ row['Home NGTP (Goalie)'] }}</td>
+        <td>{{ row['Home YGTP (Goalie)'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Home NGTP % (Goalie) Color'] }};">{{ row['Home NGTP % (Goalie)'] }}%</td>
+        <td>{{ row['Home Total NGTP (Goalie)'] }}</td>
+        <td>{{ row['Home Total YGTP (Goalie)'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Home Total NGTP % (Goalie) Color'] }};">{{ row['Home Total NGTP % (Goalie)'] }}%</td>
+        <td>{{ row['Home L5 (Goalie)'] }}</td>
+        <td class="colored-cell" style="background-color: {{ row['Home Streak (Goalie) Color'] }};">{{ row['Home Streak (Goalie)'] }}</td>
+
+
+        <td class="colored-cell" style="background-color: {{ row['NGTP % (Goalies) Color'] }};">{{ row['NGTP % (Goalies)'] }}%</td>
+
+        <td>{{ row['Away NGSTP Algo Percentage'] }}%</td>
+        <td>{{ row['Home NGSTP Algo Percentage'] }}%</td>
+        <td>{{ row['Algo Percentage'] }}%</td>
+
+        <!--<td class="colored-cell" style="background-color: {{ row['Away Total NGTP % (Goalie) Color'] }};">{{ row['Away Total NGTP % (Goalie)'] }}%</td>
+        <td class="colored-cell" style="background-color: {{ row['Home Total NGTP % (Goalie) Color'] }};">{{ row['Home Total NGTP % (Goalie)'] }}%</td>-->
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>
