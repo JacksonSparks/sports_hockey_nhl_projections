@@ -1,0 +1,139 @@
+Date,Away Team,Home Team,Away Team Goals,Home Team Goals,Away Goalie,Home Goalie,Away Goalie TOI,Home Goalie TOI,Away Goalie GA,Home Goalie GA,Away GAA,Home GAA
+20241004,Devils,Sabres,2,0,Jacob Markstrom,Ukko-Pekka Luukkonen,20,20,0,2,2.71,2.56
+20241005,Sabres,Devils,0,0,Devon Levi,Jake Allen,20,20,0,0,2.57,1.00
+20241008,Blues,Kraken,0,0,Jordan Binnington,Philipp Grubauer,20,20,0,0,3.02,2.59
+20241008,Bruins,Panthers,1,4,Joonas Korpisalo,Sergei Bobrovsky,20,20,4,1,6.19,3.04
+20241008,Blackhawks,Utah Hockey Club,0,2,Petr Mrazek,Connor Ingram,20,20,2,0,3.03,3.54
+20241009,Maple Leafs,Canadiens,0,1,Anthony Stolarz,Sam Montembeault,20,20,1,0,1.54,0.50
+20241009,Rangers,Penguins,3,0,Igor Shesterkin,Tristan Jarry,20,20,0,3,2.90,6.00
+20241009,Jets,Oilers,2,0,Connor Hellebuyck,Stuart Skinner,20,20,0,2,0.66,9.64
+20241009,Flames,Canucks,1,4,Dan Vladar,Arturs Silovs,20,20,4,1,2.96,5.94
+20241009,Avalanche,Golden Knights,1,3,Justus Annunen,Adin Hill,15,20,2,1,4.69,3.50
+20241010,Canadiens,Bruins,2,3,Cayden Primeau,Jeremy Swayman,20,20,3,2,6.30,4.00
+20241010,Kings,Sabres,0,0,Darcy Kuemper,Ukko-Pekka Luukkonen,20,20,0,0,1.47,2.56
+20241010,Panthers,Senators,0,2,Sergei Bobrovsky,Linus Ullmark,20,20,2,0,3.04,2.58
+20241010,Maple Leafs,Devils,3,1,Dennis Hildeby,Jacob Markstrom,20,20,1,3,2.02,2.71
+20241010,Utah Hockey Club,Islanders,1,1,Connor Ingram,Semyon Varlamov,20,20,1,1,3.54,3.52
+20241010,Penguins,Red Wings,1,1,Joel Blomqvist,Ville Husso,20,20,1,1,3.04,3.03
+20241010,Stars,Predators,0,0,Jake Oettinger,Scott Wedgewood,20,20,0,0,1.51,4.21
+20241010,Blue Jackets,Wild,0,1,Elvis Merzlikins,Filip Gustavsson,20,20,1,0,3.07,1.99
+20241010,Blues,Sharks,1,2,Joel Hofer,Mackenzie Blackwood,20,20,2,1,4.07,4.94
+20241011,Lightning,Hurricanes,0,1,Andrei Vasilevskiy,Frederik Andersen,20,20,1,0,1.00,2.06
+20241011,Blackhawks,Jets,0,0,Arvid Soderblom,Connor Hellebuyck,20,20,0,0,1.98,0.66
+20241011,Flyers,Canucks,1,1,Samuel Ersson,Kevin Lankinen,20,20,1,1,1.85,1.85
+20241011,Blues,Golden Knights,1,2,Jordan Binnington,Adin Hill,20,20,2,1,3.02,3.50
+20241012,Kings,Bruins,0,0,Darcy Kuemper,Jeremy Swayman,20,20,0,0,1.47,4.00
+20241012,Panthers,Sabres,1,2,Spencer Knight,Devon Levi,20,20,2,1,4.13,2.57
+20241012,Penguins,Maple Leafs,1,0,Joel Blomqvist,Anthony Stolarz,20,20,0,1,3.04,1.54
+20241012,Senators,Canadiens,0,2,Linus Ullmark,Sam Montembeault,20,20,2,0,2.58,0.50
+20241012,Predators,Red Wings,0,0,Juuse Saros,Cam Talbot,20,20,0,0,2.09,3.48
+20241012,Utah Hockey Club,Rangers,1,1,Connor Ingram,Igor Shesterkin,20,20,1,1,3.54,2.90
+20241012,Devils,Capitals,2,1,Jacob Markstrom,Charlie Lindgren,20,20,1,2,2.71,4.16
+20241012,Islanders,Stars,0,1,Semyon Varlamov,Jake Oettinger,20,20,1,0,3.52,1.51
+20241012,Kraken,Wild,0,1,Joey Daccord,Marc-Andre Fleury,20,20,1,0,3.71,3.72
+20241012,Blue Jackets,Avalanche,2,1,Daniil Tarasov,Justus Annunen,20,20,1,2,4.00,4.69
+20241012,Flyers,Flames,0,2,Ivan Fedotov,Dustin Wolf,20,20,2,0,5.12,3.05
+20241012,Blackhawks,Oilers,1,0,Petr Mrazek,Calvin Pickard,20,20,0,1,3.03,4.17
+20241012,Ducks,Sharks,0,0,Lukas Dostal,Vitek Vanecek,20,20,0,0,0.00,1.03
+20241013,Wild,Jets,1,1,Filip Gustavsson,Connor Hellebuyck,20,20,1,1,1.99,0.66
+20241013,Kraken,Stars,0,2,Philipp Grubauer,Casey DeSmith,20,20,2,0,2.59,0.00
+20241013,Flames,Oilers,0,1,Dan Vladar,Stuart Skinner,20,20,1,0,2.96,9.64
+20241013,Ducks,Golden Knights,1,1,James Reimer,Ilya Samsonov,20,20,1,1,3.00,1.00
+20241014,Panthers,Bruins,2,1,Sergei Bobrovsky,Jeremy Swayman,20,20,1,2,3.04,2.45
+20241014,Kings,Senators,2,1,Darcy Kuemper,Mads Sogaard,20,20,1,2,1.47,3.44
+20241014,Utah Hockey Club,Devils,0,0,Karel Vejmelka,Jake Allen,20,20,0,0,3.09,1.00
+20241014,Red Wings,Rangers,1,1,Alex Lyon,Igor Shesterkin,20,20,1,1,3.12,2.90
+20241014,Penguins,Canadiens,2,1,Tristan Jarry,Sam Montembeault,20,20,1,2,6.00,0.50
+20241014,Islanders,Avalanche,2,1,Ilya Sorokin,Alexandar Georgiev,20,20,1,2,3.01,7.75
+20241015,Flyers,Oilers,2,0,Samuel Ersson,Stuart Skinner,20,20,0,2,1.85,9.64
+20241015,Canucks,Lightning,0,1,Arturs Silovs,Andrei Vasilevskiy,20,20,1,0,5.94,1.00
+20241015,Golden Knights,Capitals,1,1,Adin Hill,Logan Thompson,20,20,1,1,3.50,2.01
+20241015,Devils,Hurricanes,0,0,Jacob Markstrom,Pyotr Kochetkov,20,20,0,0,2.71,2.00
+20241015,Panthers,Blue Jackets,0,0,Spencer Knight,Elvis Merzlikins,20,20,0,0,4.13,3.07
+20241015,Wild,Blues,1,0,Filip Gustavsson,Jordan Binnington,20,20,0,1,1.99,3.02
+20241015,Kraken,Predators,3,2,Joey Daccord,Juuse Saros,20,20,2,3,3.71,2.09
+20241015,Sharks,Stars,0,0,Mackenzie Blackwood,Jake Oettinger,20,20,0,0,4.94,1.51
+20241015,Blackhawks,Flames,1,1,Petr Mrazek,Dustin Wolf,20,20,1,1,3.03,3.05
+20241016,Bruins,Avalanche,2,1,Joonas Korpisalo,Alexandar Georgiev,20,20,1,2,6.19,6.58
+20241016,Utah Hockey Club,Ducks,2,1,Connor Ingram,Lukas Dostal,20,20,1,2,3.54,0.00
+20241016,Sabres,Penguins,3,1,Ukko-Pekka Luukkonen,Joel Blomqvist,20,20,1,3,2.56,3.04
+20241016,Kings,Maple Leafs,0,3,David Rittich,Anthony Stolarz,20,20,3,0,7.42,1.54
+20241017,Kings,Canadiens,1,1,David Rittich,Sam Montembeault,20,20,1,1,7.42,2.03
+20241017,Devils,Senators,0,0,Jacob Markstrom,Anton Forsberg,20,20,0,0,2.79,6.86
+20241017,Golden Knights,Lightning,2,2,Adin Hill,Andrei Vasilevskiy,20,20,2,2,3.72,1.00
+20241017,Canucks,Panthers,1,1,Kevin Lankinen,Sergei Bobrovsky,20,20,1,1,1.85,3.02
+20241017,Stars,Capitals,1,0,Casey DeSmith,Charlie Lindgren,20,20,0,1,0.00,4.16
+20241017,Sabres,Blue Jackets,0,2,Devon Levi,Daniil Tarasov,20,20,2,0,2.57,4.00
+20241017,Rangers,Red Wings,2,0,Jonathan Quick,Alex Lyon,20,20,0,2,2.03,3.12
+20241017,Islanders,Blues,0,0,Ilya Sorokin,Joel Hofer,20,20,0,0,2.00,4.07
+20241017,Oilers,Predators,1,1,Calvin Pickard,Juuse Saros,20,20,1,1,4.17,4.20
+20241017,Sharks,Blackhawks,0,2,Vitek Vanecek,Petr Mrazek,20,20,2,0,1.04,2.71
+20241017,Flyers,Kraken,2,1,Samuel Ersson,Philipp Grubauer,15,20,1,2,2.86,2.59
+20241018,Hurricanes,Penguins,1,1,Frederik Andersen,Joel Blomqvist,20,20,1,1,2.06,2.86
+20241018,Sharks,Jets,1,4,Mackenzie Blackwood,Connor Hellebuyck,20,20,4,1,3.34,0.66
+20241018,Ducks,Avalanche,2,0,Lukas Dostal,Alexandar Georgiev,20,20,0,2,1.99,5.79
+20241019,Lightning,Senators,0,2,Andrei Vasilevskiy,Anton Forsberg,20,20,2,0,1.67,4.16
+20241019,Red Wings,Predators,1,1,Alex Lyon,Juuse Saros,20,20,1,1,2.11,3.64
+20241019,Oilers,Stars,0,0,Stuart Skinner,Jake Oettinger,20,20,0,0,4.42,1.48
+20241019,Golden Knights,Panthers,1,0,Ilya Samsonov,Sergei Bobrovsky,20,20,0,1,2.41,2.95
+20241019,Rangers,Maple Leafs,1,0,Igor Shesterkin,Anthony Stolarz,20,20,0,1,1.97,1.79
+20241019,Capitals,Devils,3,1,Logan Thompson,Jacob Markstrom,20,20,1,3,3.41,2.99
+20241019,Canadiens,Islanders,1,2,Cayden Primeau,Semyon Varlamov,20,20,2,1,4.42,3.27
+20241019,Canucks,Flyers,1,0,Kevin Lankinen,Samuel Ersson,20,20,0,1,1.28,2.99
+20241019,Wild,Blue Jackets,1,0,Filip Gustavsson,Daniil Tarasov,20,20,0,1,1.50,3.70
+20241019,Hurricanes,Blues,1,0,Pyotr Kochetkov,Joel Hofer,20,20,0,1,3.05,2.32
+20241019,Sabres,Blackhawks,2,0,Ukko-Pekka Luukkonen,Arvid Soderblom,20,20,0,2,3.26,2.52
+20241019,Bruins,Utah Hockey Club,0,0,Jeremy Swayman,Connor Ingram,20,20,0,0,2.98,3.29
+20241019,Flames,Kraken,1,0,Dan Vladar,Joey Daccord,20,20,0,1,2.63,2.60
+20241020,Penguins,Jets,0,0,Alex Nedeljkovic,Eric Comrie,20,20,0,0,5.05,3.01
+20241020,Avalanche,Sharks,2,1,Justus Annunen,Vitek Vanecek,20,20,1,2,4.69,3.15
+20241020,Kings,Ducks,0,0,David Rittich,Lukas Dostal,20,20,0,0,3.25,2.64
+20241021,Lightning,Maple Leafs,1,1,Jonas Johansson,Anthony Stolarz,20,20,1,1,2.12,1.83
+20241022,Capitals,Flyers,2,0,Charlie Lindgren,Samuel Ersson,20,20,0,2,2.36,3.22
+20241022,Wild,Panthers,2,0,Filip Gustavsson,Spencer Knight,20,20,0,2,1.40,3.04
+20241022,Lightning,Devils,1,1,Jonas Johansson,Jake Allen,20,20,1,1,4.08,3.01
+20241022,Stars,Sabres,0,0,Jake Oettinger,Ukko-Pekka Luukkonen,20,20,0,0,1.81,3.01
+20241022,Rangers,Canadiens,4,1,Igor Shesterkin,Cayden Primeau,20,20,1,4,1.98,4.21
+20241022,Maple Leafs,Blue Jackets,0,3,Dennis Hildeby,Daniil Tarasov,20,20,3,0,4.03,3.29
+20241022,Red Wings,Islanders,1,0,Alex Lyon,Ilya Sorokin,20,20,0,1,1.46,1.34
+20241022,Jets,Blues,0,1,Connor Hellebuyck,Jordan Binnington,20,20,1,0,1.40,3.04
+20241022,Canucks,Blackhawks,4,2,Kevin Lankinen,Petr Mrazek,20,20,2,4,1.70,3.24
+20241022,Avalanche,Kraken,1,0,Justus Annunen,Philipp Grubauer,20,20,0,1,2.45,3.10
+20241022,Bruins,Predators,0,1,Jeremy Swayman,Juuse Saros,20,20,1,0,2.77,2.89
+20241022,Hurricanes,Oilers,0,1,Frederik Andersen,Stuart Skinner,20,20,1,0,1.64,3.74
+20241022,Senators,Utah Hockey Club,4,0,Anton Forsberg,Connor Ingram,20,20,0,4,2.94,3.82
+20241022,Penguins,Flames,0,1,Alex Nedeljkovic,Dustin Wolf,20,20,1,0,3.86,2.30
+20241022,Sharks,Ducks,0,0,Mackenzie Blackwood,Lukas Dostal,20,20,0,0,4.09,2.19
+20241022,Kings,Golden Knights,0,3,David Rittich,Ilya Samsonov,20,20,3,0,3.39,1.95
+20241023,Flyers,Capitals,0,1,Ivan Fedotov,Logan Thompson,20,20,1,0,5.35,3.28
+20241024,Stars,Bruins,1,1,Casey DeSmith,Jeremy Swayman,20,20,1,1,1.69,2.99
+20241024,Blues,Maple Leafs,2,0,Jordan Binnington,Joseph Woll,20,20,0,2,2.63,4.08
+20241024,Devils,Red Wings,1,2,Jacob Markstrom,Cam Talbot,20,20,2,1,3.15,3.21
+20241024,Wild,Lightning,1,0,Marc-Andre Fleury,Andrei Vasilevskiy,20,20,0,1,2.89,3.14
+20241024,Panthers,Rangers,2,1,Sergei Bobrovsky,Igor Shesterkin,20,20,1,2,3.11,2.16
+20241024,Hurricanes,Flames,1,0,Pyotr Kochetkov,Dan Vladar,20,20,0,1,2.70,2.73
+20241024,Avalanche,Utah Hockey Club,2,0,Justus Annunen,Karel Vejmelka,20,20,0,2,2.08,3.04
+20241024,Jets,Kraken,0,1,Connor Hellebuyck,Joey Daccord,20,20,1,0,1.66,2.93
+20241024,Sharks,Kings,0,3,Mackenzie Blackwood,David Rittich,20,20,3,0,3.88,3.09
+20241025,Senators,Golden Knights,3,2,Linus Ullmark,Adin Hill,20,20,2,3,3.44,3.85
+20241025,Islanders,Devils,2,1,Ilya Sorokin,Jake Allen,20,20,1,2,1.74,3.25
+20241025,Predators,Blackhawks,0,1,Juuse Saros,Petr Mrazek,20,20,1,0,2.74,3.21
+20241025,Penguins,Oilers,0,0,Joel Blomqvist,Stuart Skinner,20,20,0,0,3.34,3.06
+20241026,Red Wings,Sabres,1,2,Alex Lyon,Ukko-Pekka Luukkonen,20,20,2,1,2.05,3.01
+20241026,Wild,Flyers,0,2,Filip Gustavsson,Samuel Ersson,20,20,2,0,2.17,3.56
+20241026,Utah Hockey Club,Kings,0,0,Connor Ingram,Darcy Kuemper,20,20,0,0,3.71,3.20
+20241026,Maple Leafs,Bruins,0,0,Anthony Stolarz,Jeremy Swayman,20,20,0,0,2.19,2.97
+20241026,Blues,Canadiens,0,1,Jordan Binnington,Sam Montembeault,20,20,1,0,2.86,2.94
+20241026,Capitals,Lightning,0,0,Charlie Lindgren,Andrei Vasilevskiy,20,20,0,0,2.53,3.13
+20241026,Ducks,Rangers,0,0,Lukas Dostal,Jonathan Quick,20,20,0,0,2.17,1.51
+20241026,Jets,Flames,2,1,Eric Comrie,Dustin Wolf,20,20,1,2,3.00,2.74
+20241026,Panthers,Islanders,1,3,Spencer Knight,Semyon Varlamov,20,20,3,1,3.03,3.72
+20241026,Blue Jackets,Predators,0,0,Daniil Tarasov,Scott Wedgewood,20,20,0,0,3.42,3.54
+20241026,Blackhawks,Stars,0,1,Petr Mrazek,Jake Oettinger,20,20,1,0,3.20,1.84
+20241026,Penguins,Canucks,1,0,Alex Nedeljkovic,Kevin Lankinen,20,20,0,1,3.94,1.95
+20241026,Sharks,Golden Knights,0,3,Vitek Vanecek,Ilya Samsonov,20,20,3,0,4.00,2.21
+20241026,Hurricanes,Kraken,1,0,Frederik Andersen,Joey Daccord,20,20,0,1,1.49,2.95
+20241027,Oilers,Red Wings,0,1,Calvin Pickard,Cam Talbot,20,20,1,0,2.91,3.16
+20241027,Ducks,Devils,1,0,James Reimer,Jacob Markstrom,20,20,0,1,4.50,3.01
+20241027,Canadiens,Flyers,1,1,Cayden Primeau,Aleksei Kolosov,20,20,1,1,3.89,4.13
+20241027,Senators,Avalanche,0,1,Linus Ullmark,Justus Annunen,4,20,0,0,3.35,2.48
