@@ -605,7 +605,7 @@ def display_data():
     # Get the current date
     current_date = datetime.date.today().strftime("%B %d, %Y")
 
-    return render_template('nhl_tp_matchups_data_display.html', data=updated_data, date=current_date)
+    return render_template('nhl_display_tp_matchups_data.html', data=updated_data, date=current_date)
 
 if __name__ == '__main__':
     app.run(debug=True)
